@@ -1,0 +1,9 @@
+Dish Name,Ingredients,Cooking Style,Flavors,Texture,Wine Name,Wine Body,Wine Sweetness,Wine Acidity,Wine Tannins,Pairing Score
+Grilled Steak,"Beef, Salt, Pepper, Garlic",Grilled,"Savory, Umami",Tender,Cabernet Sauvignon,Full,Dry,Medium,High,9
+Spaghetti Carbonara,"Pasta, Egg, Bacon, Parmesan",Boiled,"Creamy, Salty",Creamy,Chardonnay,Medium,Dry,High,Low,8
+Caesar Salad,"Romaine, Croutons, Parmesan, Anchovy",Fresh,"Salty, Tangy",Crunchy,Sauvignon Blanc,Light,Dry,High,Low,7
+Roasted Salmon,"Salmon, Lemon, Dill, Olive Oil",Roasted,"Citrusy, Savory",Flaky,Pinot Noir,Light,Dry,Medium,Medium,8
+Chicken Alfredo,"Chicken, Cream, Butter, Parmesan",Creamy,"Rich, Savory",Creamy,Chardonnay,Full,Dry,Medium,Low,9
+Margherita Pizza,"Tomato, Mozzarella, Basil",Baked,"Savory, Herby",Crispy,Chianti,Medium,Dry,High,Medium,8
+Shrimp Tacos,"Shrimp, Lime, Cilantro, Avocado",Grilled,"Spicy, Citrusy",Crunchy,Riesling,Light,Off-dry,High,Low,7
+Dark Chocolate Cake,"Cocoa, Sugar, Butter",Baked,"Sweet, Rich",Dense,Port Wine,Full,Sweet,Low,Low,9
